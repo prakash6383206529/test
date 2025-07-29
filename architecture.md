@@ -41,7 +41,7 @@ flowchart TD
     NFC -.-> Main
     Sensors -.-> Main
     Vibration -.-> Main
-    
+
     classDef dashed stroke-dasharray: 5 5;
     class BLE,FMD,NFC dashed;
 ```
