@@ -166,17 +166,6 @@ Smart_watch_application/
 
 ---
 
-## License
 
-Specify your license here.
 
----
 
-## Credits
-
-- Built with [Zephyr RTOS](https://zephyrproject.org/)
-- Sensor and BLE stack based on Nordic Semiconductor SDKs
-
----
-
-**For further customization, integration, or support, please contact the development team.** 
